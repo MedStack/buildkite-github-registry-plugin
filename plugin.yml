@@ -1,0 +1,6 @@
+---
+name: plugins for Azure Key-vault Secrets
+description: github registry pusher
+version: "1.0.0"
+author: Muntashir Islam <muntashir@medstack.co>
+license: MIT
